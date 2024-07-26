@@ -1,5 +1,6 @@
 
 OVERVIEW
+
 This repository contains the methodology and tools used for a comprehensive forensic investigation on a compromised Metasploitable 3 Ubuntu server. The investigation was conducted using various forensic tools and techniques to gather and analyze evidence, aiming to understand the nature and extent of the security breach.
 
 
@@ -27,4 +28,5 @@ Network Analysis: Employed Security Onion to analyze the pcap file, investigatin
 
 
 Conclusion
+
 This project demonstrates a systematic approach to digital forensic investigation and highlights the importance of using specialized tools and techniques to uncover the full scope of security incidents
